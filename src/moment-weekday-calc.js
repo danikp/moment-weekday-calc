@@ -4,7 +4,7 @@
  */
 ;if ( typeof require !== 'undefined' )
 {
-  moment = require('moment');
+  var moment = require('moment');
 }
 (function(moment) {
 
